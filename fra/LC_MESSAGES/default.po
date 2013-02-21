@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Blend Swap Translation 0.1\n"
 "POT-Creation-Date: 2013-02-20 20:08-0600\n"
-"PO-Revision-Date: 2013-02-20 20:08-0600\n"
-"Last-Translator: Jonathan Acosta <jonathan@blendswap.com>\n"
+"PO-Revision-Date: 2013-02-21 18:55+0100\n"
+"Last-Translator: Kocer Tiltay <evdalo@gmail.com>\n"
 "Language-Team: Blend Swap Translators <support@blendswap.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: Controller/AtomsController.php:31;82;108
 msgid "Invalid atom"
-msgstr "Evento Inválido"
+msgstr "Atome invalid"
 
 #: Controller/AtomsController.php:65;86
 msgid "The atom has been saved"
-msgstr "El evento se ha guardado"
+msgstr "Atome sauvegardé"
 
 #: Controller/AtomsController.php:67;89
 msgid "The atom could not be saved. Please, try again."
