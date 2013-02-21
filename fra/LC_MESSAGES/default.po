@@ -27,7 +27,7 @@ msgstr "Atome sauvegardé"
 
 #: Controller/AtomsController.php:67;89
 msgid "The atom could not be saved. Please, try again."
-msgstr "El evento no pudo ser guardado, por favor intente de nuevo"
+msgstr "Atome n'a pas été sauvegardé, veuillez réessayer"
 
 #: Controller/AtomsController.php:111
 msgid "Atom deleted"
