@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Blend Swap Translation 0.1\n"
 "POT-Creation-Date: 2013-02-20 20:08-0600\n"
-"PO-Revision-Date: 2013-02-21 22:44+0100\n"
+"PO-Revision-Date: 2013-02-21 18:55+0100\n"
 "Last-Translator: Kocer Tiltay <evdalo@gmail.com>\n"
 "Language-Team: Blend Swap Translators <support@blendswap.com>\n"
 "Language: \n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Poedit-Language: French\n"
-"X-Poedit-Country: France\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: Controller/AtomsController.php:31;82;108
@@ -27,43 +27,43 @@ msgstr "Atome sauvegardé"
 
 #: Controller/AtomsController.php:67;89
 msgid "The atom could not be saved. Please, try again."
-msgstr "Atome n'a pas été sauvegardé"
+msgstr "El evento no pudo ser guardado, por favor intente de nuevo"
 
 #: Controller/AtomsController.php:111
 msgid "Atom deleted"
-msgstr "Atome a été supprimé"
+msgstr "Evento eliminado"
 
 #: Controller/AtomsController.php:114
 msgid "Atom was not deleted"
-msgstr "Atome n'a pas été supprimé"
+msgstr "El evento no fue eliminado"
 
 #: Controller/BadgesController.php:35;76;107;133
 msgid "Invalid badge"
-msgstr "Invalid badge"
+msgstr "Medalla inválida"
 
 #: Controller/BadgesController.php:90;111
 msgid "The badge has been saved"
-msgstr "Badge a été sauvegardé"
+msgstr "La Medalla se ha guardado"
 
 #: Controller/BadgesController.php:93;114
 msgid "The badge could not be saved. Please, try again."
-msgstr "Badge ne peut pas être sauvegarder, veuillez réessayer."
+msgstr "La medalla no pudo ser guardada"
 
 #: Controller/BadgesController.php:136
 msgid "Badge deleted"
-msgstr "Badge supprimé"
+msgstr "Medalla eliminada"
 
 #: Controller/BadgesController.php:139
 msgid "Badge was not deleted"
-msgstr "Badge non supprimé"
+msgstr "La medalla no fue eliminada"
 
 #: Controller/BlendsController.php:167;1641;1665;1695
 msgid "Invalid blend"
-msgstr "Blend invalid"
+msgstr "Blend inválido"
 
 #: Controller/BlendsController.php:476
 msgid "Thank you! Your new blend was saved and is now publicly visible!"
-msgstr "Merci! Votre blend a été sauvegardé et maintenant visible au public"
+msgstr "Gracias! Tu nuevo blend fue guardado y publicado!"
 
 #: Controller/BlendsController.php:478
 msgid "There was an error saving your blend as published, please report you saw this error!"
